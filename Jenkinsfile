@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        DOCKER_IMAGE_NAME = "serhiikalchenko/spring-petclinic-image"
+        DOCKER_IMAGE_NAME = "kuryshchuk/final"
     }
     stages {
         
