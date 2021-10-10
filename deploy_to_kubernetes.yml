@@ -1,5 +1,5 @@
 - name: Deployment to Kubernetes cluster!
-  hosts: tag_Name_kube_control
+  hosts: Kube_control
 
   collections:
     - kubernetes.core.k8s
